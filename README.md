@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **Under Development**
+<!-- - 👨‍💻 All of my projects are available at **Under Development** -->
 
 - 📫 How to reach me **kumarkaustubh20@gmail.com**
 
