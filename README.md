@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaustubh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+![](https://komarev.com/ghpvc/?username=K-Kaustubh&color=blueviolet)
+
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
