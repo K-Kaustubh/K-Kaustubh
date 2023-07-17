@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="k-kaustubh" /> </p>
 
-<img align="right" alt="Coding" width="400" height="350" src="https://github.com/Kaustubh-2000/Kaustubh-2000/blob/main/mygif.gif?raw=true">
+<img align="right" alt="Coding" width="400" height="350" src="https://github.com/K-Kaustubh/K-Kaustubh/blob/main/mygif.gif?raw=true">
 
 <p align="left">
 </p>
